@@ -1,4 +1,4 @@
-#FIZZ-BUZZ Game
+# FIZZ-BUZZ Game
 
 - This is a game where the multiple of 3 in a range represent the word "FIZZ",
 and the multiples of 5 represent the word "BUZZ".
